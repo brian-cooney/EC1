@@ -5,3 +5,39 @@
 body {
     font-family: "dinpro-light", arial, sans-serif;
 }
+
+
+
+.gallery {
+    letter-spacing: 5.2px;
+}
+
+.section {
+    padding: 1.3rem 1.5rem;
+}
+
+
+.video {
+    width: 100%;
+  
+}
+.wrapper{
+    display:table;
+    width:auto;
+    position:relative;
+    width:50%;
+}
+.playpause {
+    background-image:url('../Images/play_icon.png');
+    background-repeat:no-repeat;
+    width:15%;
+    height:15%;
+    position:absolute;
+    left:0%;
+    right:0%;
+    top:0%;
+    bottom:0%;
+    margin:auto;
+    background-size:contain;
+    background-position: center;
+}
